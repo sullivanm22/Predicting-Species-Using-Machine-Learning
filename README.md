@@ -1,4 +1,4 @@
-# Dry Beans Dataset Analysis
+# Dry Beans Species Dataset Analysis
 
 This project delves into the world of data-driven predictions using the Dry Beans Dataset from the UC Irvine Machine Learning Repository. The dataset comprises seven registered dry bean species, featuring 16 distinct attributes across over 13,000 instances.
 
